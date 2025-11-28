@@ -1,4 +1,4 @@
-# Haptigation Student Project
+# Haptigation
 
 <!-- 
 This README serves as the organization's profile page on GitHub.
@@ -7,43 +7,33 @@ Replace the placeholder content below with information about your organization.
 
 ## 👋 Welcome
 
-Welcome to the **Haptigation Student Project** organization! We are a student-led initiative focused on [describe your organization's mission and goals here].
+Welcome to the **Haptigation** organization! This is a student project of junior staff at Deutsche Telekom. The stuff we are working on here is part of our grade in one of the modules of our bachelor's degree.
+
+If you're interested about this project, feel free to read [our documentation]() (link coming soon)
 
 ## 🎯 Our Mission
 
-[Describe the purpose and mission of your organization. What problems are you trying to solve? What impact do you want to make?]
+With Haptigation, we're developing a hardware accessory that can be paired to your phone to give you directions from your navigation app via haptic feedback, allowing people to navigate without having to look at their phone or use headphones to recieve instructions.
 
-## 🚀 Featured Projects
+## 🚀 Repository overview
 
-<!-- List your main projects here. Link to their repositories for easy access. -->
+<!-- Here, we can list our (most important) repos -->
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [Example App](https://github.com/your-org/example-app) | A sample mobile application demonstrating core features | Active |
-| [Backend API](https://github.com/your-org/backend-api) | RESTful API service powering our applications | In Development |
+| Repo | Description |
+|---------|-------------|
+| [Example App](https://github.com/your-org/example-app) | Lorem ipsum dolor sit amet |
 
 ## 👥 Our Team
 
-[Introduce your team members or link to a team page. You can include roles, areas of expertise, etc.]
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can get involved:
-
-1. Check out our [open issues](https://github.com/your-org/repo/issues) for things that need help
-2. Read our [contributing guidelines](https://github.com/your-org/repo/blob/main/CONTRIBUTING.md) before making a pull request
-3. Join our [community discussions](https://github.com/orgs/your-org/discussions) to share ideas
+*under construction 🚧*
 
 ## 📫 Contact Us
 
-- **Email:** [contact@your-organization.com]
-- **Website:** [https://your-organization.com]
-- **Social Media:** [@your-org-handle]
+*under construction 🚧*
 
-## 📄 License
-
-[Specify the default license for your organization's projects, or link to individual project licenses.]
 
 ---
+
+The copyright to the products of this project are owned solely by Deutsche Telekom.
 
 *This organization is maintained by students as part of [institution/program name].*
