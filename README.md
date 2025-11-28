@@ -19,8 +19,8 @@ Welcome to the **Haptigation Student Project** organization! We are a student-le
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Project Name](link-to-repo) | Brief description of the project | Active/In Development |
-| [Project Name](link-to-repo) | Brief description of the project | Active/In Development |
+| [Example App](https://github.com/your-org/example-app) | A sample mobile application demonstrating core features | Active |
+| [Backend API](https://github.com/your-org/backend-api) | RESTful API service powering our applications | In Development |
 
 ## 👥 Our Team
 
@@ -30,15 +30,15 @@ Welcome to the **Haptigation Student Project** organization! We are a student-le
 
 We welcome contributions from the community! Here's how you can get involved:
 
-1. Check out our [open issues](link-to-issues) for things that need help
-2. Read our [contributing guidelines](link-to-contributing) before making a pull request
-3. Join our [community discussions](link-to-discussions) to share ideas
+1. Check out our [open issues](https://github.com/your-org/repo/issues) for things that need help
+2. Read our [contributing guidelines](https://github.com/your-org/repo/blob/main/CONTRIBUTING.md) before making a pull request
+3. Join our [community discussions](https://github.com/orgs/your-org/discussions) to share ideas
 
 ## 📫 Contact Us
 
-- **Email:** [your-email@example.com]
-- **Website:** [your-website-url]
-- **Social Media:** [links to social media profiles]
+- **Email:** [contact@your-organization.com]
+- **Website:** [https://your-organization.com]
+- **Social Media:** [@your-org-handle]
 
 ## 📄 License
 
