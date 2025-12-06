@@ -26,7 +26,7 @@ With Haptigation, we're developing a hardware accessory that can be paired to yo
 | [Google Apps Script](https://github.com/Haptigation-Student-Project/Google-Apps-Script) | Gmail automation logic to make our project mail feel professional |
 
 ## 👥 Our Team
-![Docusaurus Excerpt](assets/team.png)
+![Docusaurus Excerpt](../assets/team.png)
 | Person | Tasks |
 |---------|------|
 | David | Software Engineer |
