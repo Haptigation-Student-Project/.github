@@ -1,4 +1,4 @@
-# .github Repository – Organization-wide Templates and Guidelines
+# Organization-wide Templates and Guidelines
 
 This repository provides organization-wide GitHub guidelines and templates. It includes community health files, standard issue and pull request templates, shared workflows, and the organization profile. Content in `.github` can apply to all repositories in the organization without being duplicated in each project.
 
